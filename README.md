@@ -6,5 +6,5 @@ Universal Proxy Service
 
 * Waymond Young,
 * Evan Wedgeworth,
-* Reving Gravis,
+* Kevin Gravis,
 * Than Kywe
